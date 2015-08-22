@@ -47,6 +47,17 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
+#link1 {
+  color:red;
+}
+
+#link2 {
+  color: blue;
+}
+
+#link3 {
+  color:green;
+}
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}
 footer {margin: 0 auto; position: absolute; bottom: 55%; right: -255px; padding: 40px 0 0 0; width: 600px; -webkit-transform: rotate(-90deg);}
