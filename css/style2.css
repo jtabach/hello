@@ -49,14 +49,17 @@ hr {border-bottom: 3px solid #0068FF;}
 
 #link1 {
   color:red;
+  text-decoration:none;
 }
 
 #link2 {
   color: blue;
+  text-decoration:none;
 }
 
 #link3 {
   color:green;
+  text-decoration:none;
 }
 footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #0068FF;}
