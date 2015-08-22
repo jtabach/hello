@@ -47,18 +47,18 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
-#link1 {
-  color:red;
+#link1 a{
+  color: red;
   text-decoration:none;
 }
 
-#link2 {
+#link2 a{
   color: blue;
   text-decoration:none;
 }
 
-#link3 {
-  color:green;
+#link3 a{
+  color: green;
   text-decoration:none;
 }
 footer .inline-list li {margin-right: 40px;}
